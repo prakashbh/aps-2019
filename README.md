@@ -7,3 +7,7 @@ You can refer to some day-today handy codes here:
 https://github.com/prakashbh/day-today-codes
 
 
+2. Social Profile Id's
+-----------------------
+Use this Sheet and Enter your profile IDs (HackerRank, CodeChef, Github)
+https://tinyurl.com/aps-2019-ids
