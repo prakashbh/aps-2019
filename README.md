@@ -13,3 +13,10 @@ https://github.com/prakashbh/day-today-codes
 -----------------------
 Use this sheet and enter your profile IDs (HackerRank, CodeChef, Github)
 https://tinyurl.com/aps-2019-ids
+
+
+
+**3. HONEST APS Dashboard**
+---------------------------
+Check out the weekly status here: https://tinyurl.com/honest-aps-board
+Do note that this is for self evaluation only. It is not concerned with course grades. 
