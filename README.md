@@ -21,3 +21,11 @@ https://tinyurl.com/aps-2019-ids
 Check out the weekly status here: https://tinyurl.com/honest-aps-board
 
 Do note that this is for self evaluation only. It is not concerned with course grades. 
+
+
+
+**4. CIE Scores of the Class**
+---------------------------
+Check out your performance here: https://tinyurl.com/aps-2019-cie
+
+The CIE is for 70 Marks. 
