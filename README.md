@@ -29,3 +29,11 @@ Do note that this is for self evaluation only. It is not concerned with course g
 Check out your performance here: https://tinyurl.com/aps-2019-cie
 
 The CIE is for 70 Marks. 
+
+
+
+**5. Concept Coverage**
+---------------------------
+This sheet has all the concepts covered so far: https://tinyurl.com/aps-2019-concept-coverage
+
+Also includes all the competition details. 
